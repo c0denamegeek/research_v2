@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405669278136",
+    "project_id": "researchv2-d0571",
+    "storage_bucket": "researchv2-d0571.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405669278136:android:406c87242020e9b0d2df4d",
+        "android_client_info": {
+          "package_name": "com.example.research_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWjNe-ppDLAFoAI-IwBKuxeQEc35DQuGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
